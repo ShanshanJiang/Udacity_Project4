@@ -21,5 +21,5 @@ For this project, I was interested in identify the dog breed based from images.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@jiang.smallq/how-much-does-it-cost-to-live-in-an-airbnb-in-seattle-6ad7fc9f57bf).
+The main findings of the code can be found at the post available [here]([https://medium.com/@jiang.smallq/how-much-does-it-cost-to-live-in-an-airbnb-in-seattle-6ad7fc9f57bf](https://medium.com/@jiang.smallq/using-cnn-to-identify-dog-breed-faa722c1fcac)).
 
