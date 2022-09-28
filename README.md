@@ -1,14 +1,25 @@
-# Disaster Response Pipeline Project
+### Table of Contents
 
-### Instructions:
-1. Run the following commands in the project's root directory to set up your database and model.
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Descriptions](#files)
+4. [Results](#results)
 
-    - To run ETL pipeline that cleans data and stores in database
-        `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
-    - To run ML pipeline that trains classifier and saves
-        `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
+## Installation <a name="installation"></a>
 
-2. Run the following command in the app's directory to run your web app.
-    `python run.py`
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.\*.
 
-3. Go to http://0.0.0.0:3001/
+## Project Motivation<a name="motivation"></a>
+
+For this project, I was interested in identify the dog breed based from images.
+
+
+## File Descriptions <a name="files"></a>
+
+- dog_app (Jupyter Source File)
+  - This is the Jupyter notebook conducts all the analysis and modeling
+
+## Results<a name="results"></a>
+
+The main findings of the code can be found at the post available [here](https://medium.com/@jiang.smallq/how-much-does-it-cost-to-live-in-an-airbnb-in-seattle-6ad7fc9f57bf).
+
